@@ -5,6 +5,8 @@
 composer require topthink/think-migration
 ~~~
 
+# 已修复implode错误
+
 ## 修改（v2.0.3）
 * Column的类型报错
 
